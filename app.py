@@ -38,4 +38,4 @@ def result():
 
 if __name__ == '__main__':
     app.debug = True
-    app.run(host='https://gaanaapi-ikwn.onrender.com', port=5000, use_reloader=True)
+    app.run(host='https://gaanaapi-k4f3.onrender.com', port=5000, use_reloader=True)
